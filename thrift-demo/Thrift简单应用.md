@@ -1,6 +1,6 @@
   * [Apache Thrift IDL 简单应用](#apache-thrift-idl-简单应用)
-         * [1. demo实战:(环境:Windows10,jdk8)](#1-demo实战环境windows10jdk8)
-         * [2. 相关文章](#2-相关文章)
+     * [1. demo实战:(环境:Windows10,jdk8)](#1-demo实战环境windows10jdk8)
+     * [2. 相关文章](#2-相关文章)
 
 # Apache Thrift IDL 简单应用
 
